@@ -1,0 +1,1 @@
+General Info this folder contain image of the person on which model is goning to be trained.
