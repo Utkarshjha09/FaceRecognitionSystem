@@ -6,8 +6,8 @@ import time
 from telegram import Bot
 
 # --- Configuration ---
-BOT_TOKEN = "7860546334:AAH-nCaKjPkm8tU82EUGekwxEzNt680CoZs"
-CHAT_ID = "1123435937"
+BOT_TOKEN = "#"
+CHAT_ID = "#"
 IMAGE_PATH = "/home/shadow/Desktop/FaceRec/Face Recognition/detected.jpg"
 DATASET_DIR = "/home/shadow/Desktop/FaceRec/Face Recognition/dataset"
 IR_PIN = 17  # GPIO pin connected to IR sensor
