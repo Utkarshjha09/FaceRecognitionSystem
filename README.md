@@ -54,6 +54,10 @@ A Raspberry Pi–based intelligent face recognition system with:
 
 ---
 
+
+
+## This is the Connection and Overall Setup (images/Security System with Face Recognition.png)
+
 ## ⚙️ Raspberry Pi Setup
 
 1. Flash Raspberry Pi OS to your SD card using the Raspberry Pi Imager
