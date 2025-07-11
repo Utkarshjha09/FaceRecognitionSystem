@@ -56,7 +56,9 @@ A Raspberry Pi–based intelligent face recognition system with:
 
 
 
-## This is the Connection and Overall Setup_images/Security System with Face Recognition.png
+## This is the Connection and Overall Setup  ![Security System](images/Security%20System%20with%20Face%20Recognition.png)
+
+
 
 ## ⚙️ Raspberry Pi Setup
 
